@@ -1,13 +1,1 @@
-Theme: Cryptocurrency trends featuring Twitter anchors.
-
-Story: Bitcoin Price and Timeline / with Tweet geographical and the count of tweet including “bitcoin”, “crypto”, “cryptocurrency” and whatever related with bitcoin.
-(I assume interesting thing is if bitcoin price moves by tweet like stock price when word-of-mouth effects on the stock price.)
-
-Visualization by priority:
-1)Timeline and bitcoin price
-
-2)bitcoin price and count of tweet
-
-
-((3)geographical data of tweet and bitcoin trade heat map??))
-*Our idea was alerted too much by TA, so we need to kill some of our ideas.
+This web application serves as a convenient portal by which anyone can explore the valuation of the top six market-valued cryptocurrencies. On the present page, we provide their exchange rates relative to bitcoin (captured at the time the page loaded). In the 'Explore' page, users can select two cryptocurrencies and two datetimes, and our app will automatically generate descriptive statistics and Pearson correlations within those specifications. In the 'History' page, we provide USD valuations and descriptive summaries of each of these cryptocurrencies. In the 'Comparison' page, we provide the USD valuation of bitcoin itself.
